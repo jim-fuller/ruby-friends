@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version      git remote add origin https://github.com/jim-fuller/ruby-friends.git
 
 * System dependencies
 
